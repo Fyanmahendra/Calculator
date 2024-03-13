@@ -2,7 +2,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: #191919;
+    background-color: white;
 }
 
 .calculator {
@@ -62,5 +62,5 @@ body {
     padding: 20px;
     background-color: #211C6A;
     border-radius: 20px;
-    border: 1px solid white;
+    border: 1px solid black;
 }
